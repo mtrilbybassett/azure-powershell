@@ -3,6 +3,8 @@ external help file: Microsoft.Azure.PowerShell.Cmdlets.Accounts.dll-Help.xml
 Module Name: Az.Accounts
 online version: https://learn.microsoft.com/powershell/module/az.accounts/clear-azcontext
 schema: 2.0.0
+cmdletstatus: deprecated
+cmdletBanner: text description of reasonable length.
 ---
 
 # Clear-AzContext
