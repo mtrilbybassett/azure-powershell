@@ -4,6 +4,8 @@ Module Guid: 342714fc-4009-4863-8afb-a9067e3db04b
 Download Help Link: https://learn.microsoft.com/powershell/module/az.accounts
 Help Version: 4.6.0.0
 Locale: en-US
+moduleStatus: preview
+moduleBanner: Placeholder text. This module has been deprecated. Please view https://aka.ms/azps-refstatus.
 ---
 
 # Az.Accounts Module
