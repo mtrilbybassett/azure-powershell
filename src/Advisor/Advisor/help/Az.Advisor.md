@@ -4,6 +4,8 @@ Module Guid: 860b550a-20ce-4fb1-bae7-ef10e9221bce
 Download Help Link: https://learn.microsoft.com/powershell/module/az.advisor
 Help Version: 1.0.0.0
 Locale: en-US
+moduleStatus: deprecated
+moduleBanner: text description of reasonable length.
 ---
 
 # Az.Advisor Module
