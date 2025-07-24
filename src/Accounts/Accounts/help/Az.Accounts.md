@@ -5,7 +5,7 @@ Download Help Link: https://learn.microsoft.com/powershell/module/az.accounts
 Help Version: 4.6.0.0
 Locale: en-US
 moduleStatus: preview
-moduleBanner: Placeholder text. This module has been deprecated. Please view https://aka.ms/azps-refstatus.
+moduleStatusMessage: Placeholder text. This module has been deprecated. Please view https://aka.ms/azps-refstatus.
 ---
 
 # Az.Accounts Module
