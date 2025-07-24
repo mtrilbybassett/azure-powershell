@@ -4,7 +4,7 @@ Module Name: Az.Accounts
 online version: https://learn.microsoft.com/powershell/module/az.accounts/add-azenvironment
 schema: 2.0.0
 cmdletstatus: preview
-cmdletBanner: text description of reasonable length.
+cmdletStatusMessage: text description of reasonable length.
 ---
 
 # Add-AzEnvironment
