@@ -5,7 +5,7 @@ Download Help Link: https://learn.microsoft.com/powershell/module/az.advisor
 Help Version: 1.0.0.0
 Locale: en-US
 moduleStatus: deprecated
-moduleBanner: text description of reasonable length.
+moduleStatusMessage: text description of reasonable length.
 ---
 
 # Az.Advisor Module
