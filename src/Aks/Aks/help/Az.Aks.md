@@ -5,7 +5,7 @@ Download Help Link: https://learn.microsoft.com/powershell/module/az.aks
 Help Version: 0.0.1.0
 Locale: en-US
 moduleStatus: incorrect
-moduleBanner: text description of reasonable length.
+moduleStatusMessage: text description of reasonable length.
 ---
 
 # Az.Aks Module
