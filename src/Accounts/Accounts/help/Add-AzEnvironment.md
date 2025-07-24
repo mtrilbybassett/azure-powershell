@@ -3,7 +3,7 @@ external help file: Microsoft.Azure.PowerShell.Cmdlets.Accounts.dll-Help.xml
 Module Name: Az.Accounts
 online version: https://learn.microsoft.com/powershell/module/az.accounts/add-azenvironment
 schema: 2.0.0
-cmdletstatus: preview
+cmdletStatus: preview
 cmdletStatusMessage: text description of reasonable length.
 ---
 
